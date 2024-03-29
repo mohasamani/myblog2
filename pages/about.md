@@ -1,10 +1,12 @@
 ---
 layout: page
-title: About
+title: Education
 permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
+position: 1
 ---
+<embed src="assets/img/header/cv.pdf" type="application/pdf" width="600" height="400">
 
 Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
 

@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "Blog Archive"
+title: Skills
 permalink: /archive/
-hide: true
+hide: false
 excluded: true
 icon: "fa-archive"
-position: 6
+position: 2
 ---
